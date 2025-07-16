@@ -119,3 +119,7 @@ Hospital Database Management System/
     * pg
     * cors
     * dotenv
+
+    <p align="center">
+  <img src="https://ik.imagekit.io/ot2xhbh9ok/project%20pictures/SQL%20query%20tool.png?updatedAt=1752634680917" alt="SQL QUERY TOOL Screenshot" />
+</p>
